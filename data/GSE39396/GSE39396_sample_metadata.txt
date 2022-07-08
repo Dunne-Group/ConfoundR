@@ -1,0 +1,25 @@
+Sample_ID	Individual	Marker	Cell_Type
+GSM967339	patient A	Epcam	Epithelial
+GSM967340	patient A	CD45	Leukocytes
+GSM967341	patient A	FAP	Fibroblasts
+GSM967342	patient A	CD31	Endothelial
+GSM967343	patient C	Epcam	Epithelial
+GSM967344	patient C	CD45	Leukocytes
+GSM967345	patient C	FAP	Fibroblasts
+GSM967346	patient C	CD31	Endothelial
+GSM967347	patient D	Epcam	Epithelial
+GSM967348	patient D	CD45	Leukocytes
+GSM967349	patient D	FAP	Fibroblasts
+GSM967350	patient D	CD31	Endothelial
+GSM967351	patient E	Epcam	Epithelial
+GSM967352	patient E	CD45	Leukocytes
+GSM967353	patient E	FAP	Fibroblasts
+GSM967354	patient E	CD31	Endothelial
+GSM967355	patient J	Epcam	Epithelial
+GSM967356	patient J	CD45	Leukocytes
+GSM967357	patient J	FAP	Fibroblasts
+GSM967358	patient J	CD31	Endothelial
+GSM967359	patient K	Epcam	Epithelial
+GSM967360	patient K	CD31	Endothelial
+GSM967361	patient K	FAP	Fibroblasts
+GSM967362	patient K	CD45	Leukocytes
